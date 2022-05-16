@@ -1,5 +1,6 @@
 {
   "name": "drag-drop",
+  "description": "Low code platform, visualize programming, data processing",
   "version": "0.1.0",
   "private": true,
   "scripts": {
