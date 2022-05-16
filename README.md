@@ -1,6 +1,12 @@
 # drag-drop
 Low code platform, visualize programming, data processing
 
+## Technology stack
+
+- [React](https://zh-hans.reactjs.org)
+- [TypeScript](https://www.typescriptlang.org)
+- [MUI](https://mui.com/zh/)
+
 ## Quick Start
 
 1. Clone this repo
