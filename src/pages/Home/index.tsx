@@ -1,8 +1,12 @@
 import * as React from 'react'
+import Container from '../../components/Layout/Container'
 
 const Home = (): React.ReactElement => {
-  const title = 'Home'
-  return <h1>{ title }</h1>
+  return (
+    <Container>
+      <h1>Home</h1>
+    </Container>
+  )
 }
 
 export default Home

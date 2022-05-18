@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(231, 235, 240);
+}
+
+.canvas {
+    margin-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.card {
+    width: 40vh;
+    height: 23vh;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.create-step-side {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+/* .create-step-left {
+    margin-left: 10vh;
+    margin-right: 3vh;
+} */
+
+.create-step-main {
+    height: 100%;
+    width: 100%;
+}
