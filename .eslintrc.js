@@ -23,6 +23,7 @@ module.exports = {
   rules: {
     semi: ['error', 'never'],
     'import/extensions': ['error', 'never'],
+    'arrow-body-style': ['off', 'always'],
     'react/jsx-filename-extension': [2, { extensions: ['.js', '.jsx', '.ts', '.tsx'] }],
     'react/function-component-definition': [
       2,
