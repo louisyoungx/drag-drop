@@ -24,5 +24,12 @@ module.exports = {
     semi: ['error', 'never'],
     'import/extensions': ['error', 'never'],
     'react/jsx-filename-extension': [2, { extensions: ['.js', '.jsx', '.ts', '.tsx'] }],
+    'react/function-component-definition': [
+      2,
+      {
+        namedComponents: 'arrow-function',
+        unnamedComponents: 'arrow-function',
+      },
+    ],
   },
 }
